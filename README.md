@@ -1,5 +1,11 @@
 # Data_Analysis
 
+Sales_insight 
+•	I have draw a dashboard with SQL queries using Tablue and PowerBI . I submitted total revenue , top 5 customer or product , which city mostly declined the revenue etc
+
+
+
+# sources for learn data analysis
 
     Basic Excel- https://www.youtube.com/playlist?list=PLmQAMKHKeLZ_ADx6nJcoTM5t2S1bmsMdm
     Advanced Excel- https://www.youtube.com/playlist?list=PLmQAMKHKeLZ_e9xmZNPACsLdgie3Tkaxf
